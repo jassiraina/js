@@ -25,6 +25,8 @@ img{
     margin-left: 5px;
     margin-top: -5px;
     padding-bottom: 10px;
+    position: relative;
+    
 }
 .card-header{
     font-weight: 600;
