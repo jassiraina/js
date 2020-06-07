@@ -15,7 +15,7 @@ body{
 header{
     position: absolute;
     width: 100%;
-    top: 30%;
+    top: 50%;
     left: 30%;
     transform: translate(-30%, -50%);
 }
